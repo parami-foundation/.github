@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://parami.io/images/logo-animation.svg" width="100%">
+  <img src="https://parami.io/images/logo-animation.svg" width="500">
 </p>
 
 
